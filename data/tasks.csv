@@ -1,0 +1,16 @@
+task_id,date,title,description,priority,status,completed_date
+T-01,2026-07-19,CCNA Subnetting,Practice IPv4 subnetting exercises,High,Done,2026-07-19
+T-02,2026-07-19,Python Lab Report,Complete Tkinter GUI documentation,High,Done,2026-07-19
+T-03,2026-07-20,Balcony Gardening,Water plants and add rice water,Low,Done,2026-07-20
+T-04,2026-07-20,Database Query,Write SQL join queries,Medium,Done,2026-07-20
+T-05,2026-07-21,Assembly Code,Debug 8086 register operations,High,Done,2026-07-21
+T-06,2026-07-21,Read Security Article,Network security protocols,Low,Pending,
+T-07,2026-07-22,C# Refactoring,Clean up modular view classes,Medium,Done,2026-07-22
+T-08,2026-07-22,Spanish Vocab,Practice daily greetings,Low,Done,2026-07-22
+T-09,2026-07-23,OpenGL Scenery,Fix keyboard event listeners,High,Done,2026-07-23
+T-10,2026-07-23,Perfume Notes Review,Check fragrance notes online,Low,Done,2026-07-27
+T-11,2026-07-24,Thesis Paper Review,Review edge Zero Trust IoT papers,High,Done,2026-07-24
+T-12,2026-07-24,System Admin Lab,Virtual machine setup test,Medium,Done,2026-07-24
+T-13,2026-07-25,Viva Presentation,Prepare slides for course project,High,Done,2026-07-25
+T-14,2026-07-25,Python OOP Prep,Review inheritance and CSV handling,High,Pending,
+T-15,2026-07-27,Python Project Report,Creating pdf for python project,High,Pending,
