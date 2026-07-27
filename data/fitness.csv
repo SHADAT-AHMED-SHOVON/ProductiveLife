@@ -1,0 +1,23 @@
+date,exercise,workout_type,duration,calories
+2026-07-19,Running,Cardio,40.0,420.0
+2026-07-19,Cycling,Cardio,30.0,240.0
+2026-07-19,Squats,Strength,20.0,140.0
+2026-07-20,HIIT,Cardio,35.0,385.0
+2026-07-20,Swimming,Cardio,30.0,285.0
+2026-07-20,Walking,Cardio,20.0,80.0
+2026-07-21,Jumping Rope,Cardio,30.0,360.0
+2026-07-21,Rowing,Cardio,30.0,255.0
+2026-07-21,Bench Press,Strength,25.0,150.0
+2026-07-22,Running,Cardio,45.0,472.5
+2026-07-22,Cycling,Cardio,35.0,280.0
+2026-07-22,Yoga,Flexibility,30.0,105.0
+2026-07-23,HIIT,Cardio,40.0,440.0
+2026-07-23,Swimming,Cardio,35.0,332.5
+2026-07-23,Push-ups,Strength,20.0,100.0
+2026-07-24,Cycling,Cardio,50.0,400.0
+2026-07-24,Deadlifts,Strength,30.0,240.0
+2026-07-24,Walking,Cardio,30.0,120.0
+2026-07-25,Running,Cardio,30.0,367.5
+2026-07-25,Jumping Rope,Cardio,20.0,300.0
+2026-07-25,Squats,Strength,25.0,175.0
+2026-07-26,Running,Cardio,10.0,105.0
